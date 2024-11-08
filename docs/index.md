@@ -22,7 +22,7 @@ layout: page
 - [Constant Rate Auction Token Mint, 2022](/projects/cra-mint)
 - [On-chain SVG Token Mint, 2022](/projects/svg-mint)
 - [Twitter NFT Profile Picture Tool, 2021](/projects/twitter-pfp)
-- [Twitch NFT Drop Product, 2021](/projects/twitch-nft)
+- [Twitch NFT Drop Tool, 2021](/projects/twitch-nft)
 - [OptiBnB, 2016](/projects/optibnb)
 - [Corpus, 2015](/projects/corpus)
 - [Moosaic, 2015](/projects/moosaic)

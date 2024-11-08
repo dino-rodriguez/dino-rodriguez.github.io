@@ -1,7 +1,2 @@
 title: Dino Rodriguez 
-baseurl: "/docs"
-url: "https://dino-rodriguez.github.io"
-domain: "dino-rodriguez.github.io"
-
-# Build settings
 theme: minima

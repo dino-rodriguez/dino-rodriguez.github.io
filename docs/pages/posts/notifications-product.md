@@ -1,10 +1,8 @@
 ---
 layout: page
 title: "Blockchain Notifications Product"
-permalink: /projects/notifications-product
+permalink: /posts/notifications-product
 ---
-
-## The Notifications Product
 
 At Yoz Labs, we developed a product that creates and sends notifications based on blockchain activity. As one of the founding engineers, I designed and built the backend system for this project.
 

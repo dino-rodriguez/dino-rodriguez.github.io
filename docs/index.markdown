@@ -2,6 +2,8 @@
 layout: home 
 ---
 
+# Dino Rodriguez
+
 ## Work
 - Founding Software Engineer, Yoz Labs, 2021-2024
 - Software Engineer, Ripple, 2020-2021
